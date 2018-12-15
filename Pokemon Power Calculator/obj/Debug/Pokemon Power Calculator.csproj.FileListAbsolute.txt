@@ -1,0 +1,18 @@
+C:\Users\Bernardo\source\repos\Pokemon Power Calculator\Pokemon Power Calculator\bin\Debug\Pokemon Power Calculator.exe.config
+C:\Users\Bernardo\source\repos\Pokemon Power Calculator\Pokemon Power Calculator\bin\Debug\Pokemon Power Calculator.exe
+C:\Users\Bernardo\source\repos\Pokemon Power Calculator\Pokemon Power Calculator\bin\Debug\Pokemon Power Calculator.pdb
+C:\Users\Bernardo\source\repos\Pokemon Power Calculator\Pokemon Power Calculator\obj\Debug\Pokemon Power Calculator.csprojAssemblyReference.cache
+C:\Users\Bernardo\source\repos\Pokemon Power Calculator\Pokemon Power Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Bernardo\source\repos\Pokemon Power Calculator\Pokemon Power Calculator\obj\Debug\App.g.cs
+C:\Users\Bernardo\source\repos\Pokemon Power Calculator\Pokemon Power Calculator\obj\Debug\Pokemon Power Calculator_MarkupCompile.cache
+C:\Users\Bernardo\source\repos\Pokemon Power Calculator\Pokemon Power Calculator\obj\Debug\Pokemon Power Calculator_MarkupCompile.lref
+C:\Users\Bernardo\source\repos\Pokemon Power Calculator\Pokemon Power Calculator\obj\Debug\MainWindow.baml
+C:\Users\Bernardo\source\repos\Pokemon Power Calculator\Pokemon Power Calculator\obj\Debug\Pokemon Power Calculator.g.resources
+C:\Users\Bernardo\source\repos\Pokemon Power Calculator\Pokemon Power Calculator\obj\Debug\Pokemon_Power_Calculator.Properties.Resources.resources
+C:\Users\Bernardo\source\repos\Pokemon Power Calculator\Pokemon Power Calculator\obj\Debug\Pokemon Power Calculator.csproj.GenerateResource.cache
+C:\Users\Bernardo\source\repos\Pokemon Power Calculator\Pokemon Power Calculator\obj\Debug\Pokemon Power Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Bernardo\source\repos\Pokemon Power Calculator\Pokemon Power Calculator\obj\Debug\Pokemon Power Calculator.exe
+C:\Users\Bernardo\source\repos\Pokemon Power Calculator\Pokemon Power Calculator\obj\Debug\Pokemon Power Calculator.pdb
+C:\Users\Bernardo\source\repos\Pokemon Power Calculator\Pokemon Power Calculator\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Bernardo\source\repos\Pokemon Power Calculator\Pokemon Power Calculator\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Bernardo\source\repos\Pokemon Power Calculator\Pokemon Power Calculator\obj\Debug\Pokemon Power Calculator.csproj.CopyComplete
