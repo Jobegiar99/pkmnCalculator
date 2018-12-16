@@ -206,7 +206,7 @@
                     <RowDefinition Height="*"/>
                 </Grid.RowDefinitions>
                 <TextBlock FontSize="11" FontWeight="UltraBlack" HorizontalAlignment="Center" Margin="10,14,13.6,0" TextWrapping="Wrap" Text="Abilities that Affect Damage" VerticalAlignment="Top" Width="160"/>
-                
+
                 <ComboBox Name="combo_Abilities" HorizontalAlignment="Left" Margin="30,34,0,0" VerticalAlignment="Top" Width="120">
                     <ComboBoxItem Content="None"/>
                     <ComboBoxItem Content="Fluffy (Target Only)"/>
@@ -219,10 +219,11 @@
                     <ComboBoxItem Content="Solid Rock (Target Only)"/>
                     <ComboBoxItem Content="Tinted Lens (Attacker Only)"/>
                 </ComboBox>
-                
-                
+
+
             </Grid>
         </Border>
+        <TextBlock HorizontalAlignment="Left" Margin="704,349,0,0" TextWrapping="Wrap" Text="By: Jobegiar99" VerticalAlignment="Top" Opacity="0.5" Width="80"/>
 
     </Grid>
 </Window>
